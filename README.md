@@ -8,6 +8,11 @@ Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
+Set Cohere API key in a .env file:
+
+```
+COHERE_API_KEY=your_api_key_here
+```
 
 Run the streamlit app:
 
