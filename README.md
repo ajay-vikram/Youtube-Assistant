@@ -15,6 +15,6 @@ Run the streamlit app:
 streamlit run youtube_assistant.py
 ```
 
-![YouTube Assistant App](/YouTube-Assistant.png)
+![YouTube Assistant App](/Youtube-Assistant.png)
 
 
