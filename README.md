@@ -1,6 +1,10 @@
 # Youtube Assistant
 LLM-based YouTube Assistant for answering video-related questions. Users can ask questions about specific YouTube videos, and the assistant will provide relevant answers.
 
+## Cohere
+
+The code uses the CohereEmbeddings model ("embed-english-light-v3.0") for generating embeddings and Cohere LLM API for generating text based on the query.
+
 ## Running it locally
 
 Install the required packages:
