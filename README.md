@@ -23,6 +23,7 @@ Run the streamlit app:
 ```bash
 streamlit run youtube_assistant.py
 ```
+## Screenshot
 
 ![YouTube Assistant App](/Youtube-Assistant.png)
 
