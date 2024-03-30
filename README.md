@@ -3,7 +3,7 @@ LLM-based YouTube Assistant for answering video-related questions. Users can ask
 
 ## Cohere
 
-The code uses the CohereEmbeddings model ("embed-english-light-v3.0") for generating embeddings and Cohere LLM API for generating text based on the query.
+The code uses the CohereEmbeddings model ("embed-english-light-v3.0") for generating embeddings and Cohere LLM API for generating text based on the query. Get a ![Cohere API key](https://dashboard.cohere.ai/) and set it as an environment variable (COHERE_API_KEY).
 
 ## Running it locally
 
