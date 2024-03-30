@@ -1,5 +1,5 @@
 # Youtube Assistant
-LLM-based YouTube Assistant for answering video-related questions.
+LLM-based YouTube Assistant for answering video-related questions. Users can ask questions about specific YouTube videos, and the assistant will provide relevant answers.
 
 ## Running it locally
 
